@@ -21,11 +21,13 @@
 
 ### Skills
 
+> **Runs on Cadabra AI.** The story and the prompts are free; images and video cost credits, and every price is shown before anything runs.
+
 | Skill | What you say | What you get |
 |---|---|---|
-| **Animated Short** | "Make an animated Short about..." | Your own 30-second animated Short: story, original character, the look you pick (3D, clay, hand-drawn, watercolour, paper and more), character sheet, one Seedance 2.5 take directed beat by beat |
-| **Cinematic Ad** | "Make an ad for my business" | A 30-second commercial for any business, from your real photos and facts |
-| **Genie Edit** | "Edit this into a reel" | Your footage cut into a finished film: captions, music, titles, end card |
+| [**Animated Short**](https://github.com/CadabraAI/skills/tree/main/skills/cadabra-animated-short) | "Make an animated Short about..." | Your own 30-second animated Short: story, original character, the look you pick (3D, clay, hand-drawn, watercolour, paper and more), character sheet, one Seedance 2.5 take directed beat by beat |
+| [**Cinematic Ad**](https://github.com/CadabraAI/skills/tree/main/skills/cadabra-cinematic-ad) | "Make an ad for my business" | A 30-second commercial for any business, from your real photos and facts |
+| [**Genie Edit**](https://github.com/CadabraAI/skills/tree/main/skills/cadabra-genie-edit) | "Edit this into a reel" | Your footage cut into a finished film: captions, music, titles, end card |
 
 Every skill shows the price before anything is made, and a result that does not arrive is refunded.
 
@@ -35,7 +37,7 @@ Every skill shows the price before anything is made, and a result that does not 
    ```
    https://mcp.livinginmovie.com/mcp
    ```
-2. Download a skill and upload it in Claude under **Settings**, **Skills**.
+2. Get the skills from [**CadabraAI/skills**](https://github.com/CadabraAI/skills) and upload one in Claude under **Settings**, **Skills**.
 3. Write one sentence.
 
 ### Made with these skills
